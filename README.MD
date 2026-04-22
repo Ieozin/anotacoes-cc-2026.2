@@ -13,7 +13,12 @@
 ---
 
 ## 📂 01. Engenharia de Software
-* [ ] [Tema 01: Introdução](01_engenharia_software/anotacoes/tema_01_introducao.md)
+* [x] [Temas 1 e 2: Introdução e Gerenciamento](01_engenharia_software/anotacoes/tema_01_02_fundamentos_e_gerenciamento.md)
+* [x] [Tema 3: Fases do Desenvolvimento de Software](01_engenharia_software/anotacoes/tema_03_fases_pds.md)
+* [ ] [Tema 4: Modelos de Processos de Desenvolvimento](01_engenharia_software/anotacoes/tema_04_modelos_processos.md)
+* [ ] [Tema 5: Qualidade de Software](01_engenharia_software/anotacoes/tema_05_qualidade_software.md)
+* [ ] [Tema 6: Gerenciamento de Configurações](01_engenharia_software/anotacoes/tema_06_gerenciamento_configuracoes.md)
+* [ ] [Tema 7: Revisão Final e Prática](01_engenharia_software/anotacoes/tema_07_revisao_pratica.md)
 
 ## 📂 02. Desenvolvimento Rápido de Aplicações em Python
 * [ ] [Tema 01: Introdução](02_dev_rapido_python/anotacoes/tema_01_introducao.md)
