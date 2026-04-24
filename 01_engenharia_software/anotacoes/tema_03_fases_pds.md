@@ -42,8 +42,8 @@ def validar_login(user, senha):
     if user == "admin" and senha == "123":
         return True
     return False
-```  
 
 # O teste unitário verifica essa função isolada
 assert validar_login("admin", "123") == True
 assert validar_login("admin", "errada") == False
+```  
