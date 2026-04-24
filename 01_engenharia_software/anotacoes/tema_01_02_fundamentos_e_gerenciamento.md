@@ -1,41 +1,50 @@
-# Temas 01 e 02: Fundamentos e Gerenciamento de Projetos
+# Tema 01 e 02: Fundamentos e Gerenciamento
 **Data:** 20/04/2026 | **Status:** Concluído
 
-## O que é Software de verdade?
-Software não é só o binário rodando. Pra Engenharia de Software (ES), é o combo: **Instruções (código) + Estruturas de Dados + Documentação**. A ES surgiu pra resolver a "Crise do Software" (quando as máquinas ficaram potentes demais e o código virou uma bagunça impossível de manter).
+## 1. O Roadmap da Matéria
+A Estácio dividiu a disciplina em 5 blocos principais pra gente entender o ciclo todo:
+1. **Fundamentos e Gestão:** O básico de software e como gerenciar o projeto (PMBOK, riscos).
+2. **Fases do PDS:** O passo a passo (requisitos, projeto, teste, manutenção).
+3. **Modelos de Processo:** Metodologias (Scrum, XP, Processo Unificado).
+4. **Qualidade:** Métricas e testes pra garantir q o sistema não exploda.
+5. **Gerência de Configuração:** Controle de versão e mudanças (o q a gente faz com o Git).
+
+## 2. O Combo: Software e Engenharia
+Software não é só o código rodando. Pra Engenharia de Software (ES), é o pacote: **Instruções (código) + Estruturas de Dados + Documentação**.
+A ES surgiu pra resolver a "Crise do Software" lá atrás, quando o hardware evoluiu e o código virou uma bagunça impossível de manter.
 
 ### As 4 Camadas da ES
-Tipo um bolo, uma camada sustenta a outra:
-1. **Qualidade:** O foco de tudo.
-2. **Processo:** As etapas (o "framework").
-3. **Métodos:** O "como fazer" técnico (modelagem, elicitação).
-4. **Ferramentas:** O apoio (Ferramentas CASE).
+| Camada | O q é? |
+| :--- | :--- |
+| **Qualidade** | O foco de tudo. Se não tiver qualidade, o resto não importa. |
+| **Processo** | O "mapa" com as etapas e atividades (o framework). |
+| **Métodos** | O "como fazer" técnico (modelagem, análise, UML). |
+| **Ferramentas** | O apoio (Ferramentas CASE, IDEs, Git). |
 
-## Processo de Desenvolvimento (PDS) e Requisitos
-As 5 atividades básicas de qualquer processo:
-- **Comunicação:** Entender o problema.
-- **Planejamento:** Cronograma e recursos.
-- **Modelagem:** Desenhar a solução (UML).
-- **Construção:** Codar e testar.
-- **Entrega:** Botar pra rodar.
+## 3. O Fluxo de Trabalho (PDS)
+As 5 atividades básicas de qualquer processo de desenvolvimento:
+- **Comunicação:** Entender o problema (falar com o cliente/usuário).
+- **Planejamento:** Definir cronograma, recursos e riscos.
+- **Modelagem:** Desenhar a solução (criar o esqueleto).
+- **Construção:** Onde a mágica acontece (Codar + Testar).
+- **Entrega:** Botar pra rodar e ver se o cliente curtiu.
 
-### Classificação de Requisitos
-- **Funcionais:** O serviço q o sistema presta (ex: gerar nota fiscal).
-- **Não Funcionais:** Restrições/Qualidade (ex: ser rápido, seguro, feito em Python).
-- **De Domínio:** Regras de negócio/leis (ex: cálculo de imposto).
+## 4. Requisitos: O que o sistema faz?
+- **Funcionais:** O serviço q o sistema presta (ex: "gerar boleto", "cadastrar usuário").
+- **Não Funcionais:** Restrições ou critérios de qualidade (ex: "o sistema deve ser em Python", "o login deve ser seguro", "tempo de resposta < 1s").
+- **De Domínio:** Regras do negócio ou leis específicas (ex: "cálculo de imposto conforme a legislação atual").
 
-## Gerenciamento de Projetos (PMBOK)
-Projeto é algo **temporário** (tem fim) pra criar algo **único**. O PMBOK divide isso em 5 grupos: Iniciação, Planejamento, Execução, Monitoramento/Controle e Encerramento.
+## 5. Gerenciamento de Projetos (PMBOK)
+Projeto é algo **temporário** (tem data pra acabar) pra criar um produto/serviço **único**.
+O PMBOK divide isso em 5 grupos: Iniciação, Planejamento, Execução, Monitoramento/Controle e Encerramento.
 
-> **⚠️ Atenção:** Risco é incerteza. Pode ser **bom (Oportunidade)** ou **ruim (Ameaça)**. A análise **Qualitativa** serve pra priorizar os riscos (Probabilidade x Impacto).
+### Gestão de Riscos
+Risco é incerteza. Pode ser **bom (Oportunidade)** ou **ruim (Ameaça)**.
 
----
-
-## Exercícios de Fixação (Lista 1)
-- **Risco:** Quem prioriza os riscos é a análise **Qualitativa**. A Quantitativa serve pra dar valor numérico/financeiro.
-- **Integração:** É a única área de conhecimento q está em todas as fases da gestão.
-- **Rastreabilidade:** É o que garante que eu saiba de onde veio um requisito e onde ele foi parar no código.
-- **Fluxos:**
-    - Linear: Sequência única.
-    - Iterativo: Repete etapas.
-    - Evolucionário: Cada volta gera uma versão nova.
+## Pontos de Atenção
+> **⚠️ Pegadinha de Prova:** Quem prioriza os riscos é a análise **Qualitativa** (Probabilidade x Impacto). A análise **Quantitativa** serve pra dar valor numérico ou financeiro e é bem mais complexa.
+> **⚠️ Conceito Chave:** A **Integração** é a única área de conhecimento q está em todas as fases da gestão do projeto.
+> **⚠️ Fluxos de Processo:**
+> - **Linear:** Uma etapa depois da outra (Cascata).
+> - **Iterativo:** Repete as etapas pra refinar.
+> - **Evolucionário:** Cada volta gera uma versão funcional nova (Incremental).
