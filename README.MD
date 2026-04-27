@@ -15,7 +15,7 @@ Caminho: `01_engenharia_software/`
 * [x] [Tema 03: Fases do PDS](01_engenharia_software/anotacoes/tema_03_fases_pds.md)
 * [x] [Tema 04: Modelos de Processos](01_engenharia_software/anotacoes/tema_04_modelos_processos.md)
 * [x] [Tema 05: Qualidade de Software](01_engenharia_software/anotacoes/tema_05_qualidade_software.md)
-* [ ] [Tema 06: Gerência de Configuração](01_engenharia_software/anotacoes/tema_06_gerenciamento_configuracoes.md)
+* [x] [Tema 06: Gerência de Configuração](01_engenharia_software/anotacoes/tema_06_gerenciamento_configuracoes.md)
 
 ---
 *“Foco na base.”*
