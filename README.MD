@@ -5,6 +5,7 @@ Minhas anotações, resumos e atividades do curso de Ciência da Computação (E
 | ID | Disciplina | Status |
 | :--- | :--- | :--- |
 | 01 | Engenharia de Software | 🟡 Em andamento |
+| 02 | Sistemas Operacionais | 🟡 Em andamento |
 
 ---
 
@@ -16,6 +17,13 @@ Caminho: `01_engenharia_software/`
 * [x] [Tema 04: Modelos de Processos](01_engenharia_software/anotacoes/tema_04_modelos_processos.md)
 * [x] [Tema 05: Qualidade de Software](01_engenharia_software/anotacoes/tema_05_qualidade_software.md)
 * [x] [Tema 06: Gerência de Configuração](01_engenharia_software/anotacoes/tema_06_gerenciamento_configuracoes.md)
+
+---
+
+## 📂 02. Sistemas Operacionais
+Caminho: `02_sistemas_operacionais/`
+
+* [x] [Temas 01 e 02: Introdução e Conceitos Básicos](02_sistemas_operacionais/anotacoes/tema_01_02_introducao_e_conceitos.md)
 
 ---
 *“Foco na base.”*
