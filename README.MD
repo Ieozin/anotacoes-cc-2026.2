@@ -25,6 +25,7 @@ Caminho: `02_sistemas_operacionais/`
 
 * [x] [Temas 01 e 02: Introdução e Conceitos Básicos](02_sistemas_operacionais/anotacoes/tema_01_02_introducao_e_conceitos.md)
 * [x] [Tema 03: Processos e Gerência de Processador](02_sistemas_operacionais/anotacoes/tema_03_processos_e_gerencia.md)
+* [x] [Tema 04: Memória](02_sistemas_operacionais/anotacoes/tema_04_memoria.md)
 
 ---
 *“Foco na base.”*
