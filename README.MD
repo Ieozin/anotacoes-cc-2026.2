@@ -24,6 +24,7 @@ Caminho: `01_engenharia_software/`
 Caminho: `02_sistemas_operacionais/`
 
 * [x] [Temas 01 e 02: Introdução e Conceitos Básicos](02_sistemas_operacionais/anotacoes/tema_01_02_introducao_e_conceitos.md)
+* [x] [Tema 03: Processos e Gerência de Processador](02_sistemas_operacionais/anotacoes/tema_03_processos_e_gerencia.md)
 
 ---
 *“Foco na base.”*
