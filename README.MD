@@ -27,6 +27,7 @@ Caminho: `02_sistemas_operacionais/`
 * [x] [Tema 03: Processos e Gerência de Processador](02_sistemas_operacionais/anotacoes/tema_03_processos_e_gerencia.md)
 * [x] [Tema 04: Memória](02_sistemas_operacionais/anotacoes/tema_04_memoria.md)
 * [x] [Tema 05: Sistema de Arquivos](02_sistemas_operacionais/anotacoes/tema_05_sistema_de_arquivos.md)
+* [x] [Tema 06: Automatizando Tarefas no Linux](02_sistemas_operacionais/anotacoes/tema_06_automatizando_tarefas.md)
 
 ---
 *“Foco na base.”*
