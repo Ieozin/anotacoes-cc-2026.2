@@ -30,4 +30,12 @@ Caminho: `02_sistemas_operacionais/`
 * [x] [Tema 06: Automatizando Tarefas no Linux](02_sistemas_operacionais/anotacoes/tema_06_automatizando_tarefas.md)
 
 ---
+
+## 📂 03. Protocolos de Redes de Computadores
+Caminho: `03_protocolos_redes/`
+
+* [x] [Temas 01 e 02: Introdução e Protocolos de Aplicação](03_protocolos_redes/anotacoes/tema_01_02_introducao_e_aplicacao.md)
+
+---
+
 *“Foco na base.”*
