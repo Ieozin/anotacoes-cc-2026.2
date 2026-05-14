@@ -6,6 +6,7 @@ Minhas anotações, resumos e atividades do curso de Ciência da Computação (E
 | :--- | :--- | :--- |
 | 01 | Engenharia de Software | 🟡 Em andamento |
 | 02 | Sistemas Operacionais | 🟡 Em andamento |
+| 03 | Protocolos de Redes de Computadores | 🟡 Em andamento |
 
 ---
 
