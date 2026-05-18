@@ -36,6 +36,7 @@ Caminho: `02_sistemas_operacionais/`
 Caminho: `03_protocolos_redes/`
 
 * [x] [Temas 01 e 02: Introdução e Protocolos de Aplicação](03_protocolos_redes/anotacoes/tema_01_02_introducao_e_aplicacao.md)
+* [x] [Tema 03: Protocolos de Transporte da Internet](03_protocolos_redes/anotacoes/tema_03_protocolos_transporte.md)
 
 ---
 
