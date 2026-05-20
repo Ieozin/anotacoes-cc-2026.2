@@ -38,6 +38,7 @@ Caminho: `03_protocolos_redes/`
 * [x] [Temas 01 e 02: Introdução e Protocolos de Aplicação](03_protocolos_redes/anotacoes/tema_01_02_introducao_e_aplicacao.md)
 * [x] [Tema 03: Protocolos de Transporte da Internet](03_protocolos_redes/anotacoes/tema_03_protocolos_transporte.md)
 * [x] [Tema 04: Protocolo IPv4](03_protocolos_redes/anotacoes/tema_04_protocolo_ipv4.md)
+* [x] [Tema 05: Protocolo IPv6](03_protocolos_redes/anotacoes/tema_05_protocolo_ipv6.md)
 
 ---
 
