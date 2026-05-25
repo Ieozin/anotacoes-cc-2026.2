@@ -7,6 +7,7 @@ Minhas anotações, resumos e atividades do curso de Ciência da Computação (E
 | 01 | Engenharia de Software | 🟡 Em andamento |
 | 02 | Sistemas Operacionais | 🟡 Em andamento |
 | 03 | Protocolos de Redes de Computadores | 🟡 Em andamento |
+| 04 | Desenvolvimento Rápido de Aplicações em Python | 🟡 Em andamento |
 
 ---
 
@@ -39,6 +40,13 @@ Caminho: `03_protocolos_redes/`
 * [x] [Tema 03: Protocolos de Transporte da Internet](03_protocolos_redes/anotacoes/tema_03_protocolos_transporte.md)
 * [x] [Tema 04: Protocolo IPv4](03_protocolos_redes/anotacoes/tema_04_protocolo_ipv4.md)
 * [x] [Tema 05: Protocolo IPv6](03_protocolos_redes/anotacoes/tema_05_protocolo_ipv6.md)
+
+---
+
+## 📂 04. Desenvolvimento Rápido de Aplicações em Python
+Caminho: `04_desenvolvimento_rapido_python/`
+
+* [x] [Temas 01 e 02: Introdução e Metodologia RAD](04_desenvolvimento_rapido_python/anotacoes/tema_01_02_introducao_e_rad.md)
 
 ---
 
