@@ -49,6 +49,7 @@ Caminho: `04_desenvolvimento_rapido_python/`
 * [x] [Temas 01 e 02: Introdução e Metodologia RAD](04_desenvolvimento_rapido_python/anotacoes/tema_01_02_introducao_e_rad.md)
 * [x] [Tema 03: Manipulação de Dados em Arquivos](04_desenvolvimento_rapido_python/anotacoes/tema_03_manipulacao_dados.md)
 * [x] [Tema 04: Python com Banco de Dados](04_desenvolvimento_rapido_python/anotacoes/tema_04_python_bd.md)
+* [x] [Tema 05: Interface Gráfica com Python](04_desenvolvimento_rapido_python/anotacoes/tema_05_interface_grafica.md)
 
 ---
 
