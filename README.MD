@@ -1,57 +1,17 @@
-# 🎓 CC-2026.2 | Leonardo
-Minhas anotações, resumos e atividades do curso de Ciência da Computação (Estácio).
+# CC-2026.2
 
-## 🚀 Matérias do Semestre
-| ID | Disciplina | Status |
-| :--- | :--- | :--- |
-| 01 | Engenharia de Software | 🟡 Em andamento |
-| 02 | Sistemas Operacionais | 🟡 Em andamento |
-| 03 | Protocolos de Redes de Computadores | 🟡 Em andamento |
-| 04 | Desenvolvimento Rápido de Aplicações em Python | 🟡 Em andamento |
+Registro de estudos do 3º semestre de Ciência da Computação.
 
----
+## Disciplinas
 
-## 📂 01. Engenharia de Software
-Caminho: `01_engenharia_software/`
+### Engenharia de Software
+Processos de desenvolvimento, qualidade de software e gerenciamento de configuração.
 
-* [x] [Temas 01 e 02: Fundamentos e Gerenciamento](01_engenharia_software/anotacoes/tema_01_02_fundamentos_e_gerenciamento.md)
-* [x] [Tema 03: Fases do PDS](01_engenharia_software/anotacoes/tema_03_fases_pds.md)
-* [x] [Tema 04: Modelos de Processos](01_engenharia_software/anotacoes/tema_04_modelos_processos.md)
-* [x] [Tema 05: Qualidade de Software](01_engenharia_software/anotacoes/tema_05_qualidade_software.md)
-* [x] [Tema 06: Gerência de Configuração](01_engenharia_software/anotacoes/tema_06_gerenciamento_configuracoes.md)
+### Sistemas Operacionais
+Processos, memória, sistemas de arquivos e automação Linux.
 
----
+### Redes de Computadores
+Protocolos de aplicação, transporte, IPv4 e IPv6.
 
-## 📂 02. Sistemas Operacionais
-Caminho: `02_sistemas_operacionais/`
-
-* [x] [Temas 01 e 02: Introdução e Conceitos Básicos](02_sistemas_operacionais/anotacoes/tema_01_02_introducao_e_conceitos.md)
-* [x] [Tema 03: Processos e Gerência de Processador](02_sistemas_operacionais/anotacoes/tema_03_processos_e_gerencia.md)
-* [x] [Tema 04: Memória](02_sistemas_operacionais/anotacoes/tema_04_memoria.md)
-* [x] [Tema 05: Sistema de Arquivos](02_sistemas_operacionais/anotacoes/tema_05_sistema_de_arquivos.md)
-* [x] [Tema 06: Automatizando Tarefas no Linux](02_sistemas_operacionais/anotacoes/tema_06_automatizando_tarefas.md)
-
----
-
-## 📂 03. Protocolos de Redes de Computadores
-Caminho: `03_protocolos_redes/`
-
-* [x] [Temas 01 e 02: Introdução e Protocolos de Aplicação](03_protocolos_redes/anotacoes/tema_01_02_introducao_e_aplicacao.md)
-* [x] [Tema 03: Protocolos de Transporte da Internet](03_protocolos_redes/anotacoes/tema_03_protocolos_transporte.md)
-* [x] [Tema 04: Protocolo IPv4](03_protocolos_redes/anotacoes/tema_04_protocolo_ipv4.md)
-* [x] [Tema 05: Protocolo IPv6](03_protocolos_redes/anotacoes/tema_05_protocolo_ipv6.md)
-
----
-
-## 📂 04. Desenvolvimento Rápido de Aplicações em Python
-Caminho: `04_desenvolvimento_rapido_python/`
-
-* [x] [Temas 01 e 02: Introdução e Metodologia RAD](04_desenvolvimento_rapido_python/anotacoes/tema_01_02_introducao_e_rad.md)
-* [x] [Tema 03: Manipulação de Dados em Arquivos](04_desenvolvimento_rapido_python/anotacoes/tema_03_manipulacao_dados.md)
-* [x] [Tema 04: Python com Banco de Dados](04_desenvolvimento_rapido_python/anotacoes/tema_04_python_bd.md)
-* [x] [Tema 05: Interface Gráfica com Python](04_desenvolvimento_rapido_python/anotacoes/tema_05_interface_grafica.md)
-* [x] [Tema 06: Aplicando RAD](04_desenvolvimento_rapido_python/anotacoes/tema_06_aplicando_rad.md)
-
----
-
-*“Foco na base.”*
+### Desenvolvimento em Python
+Manipulação de arquivos, banco de dados, interfaces gráficas e metodologia RAD.
